@@ -2,6 +2,7 @@ import mitmproxy.http
 from mitmproxy import ctx
 import requests
 import os
+
 Dir = os.path.join(os.path.dirname(__file__), 'video')
 
 
